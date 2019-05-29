@@ -1,5 +1,5 @@
 const path = require("path");
-const { createClient } = require("../grpc-kit");
+const { createClient } = require("../grpc-kit/grpc-kit");
 const client = createClient(
   {
     protoPath: path.resolve(__dirname, "./stream_greeter.proto"),

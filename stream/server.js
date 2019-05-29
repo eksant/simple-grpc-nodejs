@@ -1,5 +1,5 @@
 const path = require("path");
-const { createServer } = require("../grpc-kit");
+const { createServer } = require("../grpc-kit/grpc-kit");
 const server = createServer();
 
 server.use({
