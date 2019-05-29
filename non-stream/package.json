@@ -1,0 +1,7 @@
+{
+  "name": "grpc-non-stream",
+  "version": "0.0.1",
+  "description": "GRPC more simple",
+  "main": "index.js",
+  "license": "MIT"
+}

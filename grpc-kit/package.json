@@ -1,0 +1,14 @@
+{
+  "name": "grpc-kit",
+  "version": "0.0.1",
+  "description": "GRPC more simple",
+  "main": "index.js",
+  "repository": "https://github.com/eksant/simple-grpc-nodejs",
+  "author": "eksa <eksant@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.1",
+    "grpc": "^1.21.1"
+  }
+}
